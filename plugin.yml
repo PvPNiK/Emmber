@@ -1,0 +1,7 @@
+name: Emmber
+version: 1.0
+main: me.pvpnik.emmber.Emmber
+author: PvPNiK
+depend:
+  - HeadDatabase
+softdepend: [Vault, WorldGuard, HolographicDisplays, HeadDatabase, ProtocolLib]
